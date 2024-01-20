@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = "Steven Cannon Thomas";
 let currentYear = 2024;
-let profilePicture = 'images/placeholder.png';
+let profilePicture = 'images/Trigger.jpg';
 
 
 /* Step 3 - Element Variables */
